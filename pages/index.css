@@ -1,0 +1,9 @@
+/* normalize */
+@import url(../vendor/normalize.css);
+/* page */
+@import url(../blocks/page/page.css);
+/* header*/
+@import url(../blocks/header/header.css);
+/* menu */
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__link/menu__link.css);
